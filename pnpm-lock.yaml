@@ -414,7 +414,7 @@ importers:
       '@nuxt/schema': workspace:*
       '@nuxt/telemetry': ^2.1.8
       '@nuxt/ui-templates': ^1.1.0
-      '@nuxt/vite-builder': workspace:*
+      '@nuxt/vite-builder': workspace:npm:@dword-design/nuxt-vite-builder@3.0.0
       '@types/fs-extra': ^9.0.13
       '@types/hash-sum': ^1.0.0
       '@unhead/ssr': ^1.0.14
